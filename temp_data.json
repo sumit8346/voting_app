@@ -1,0 +1,16 @@
+{
+    "name":"sumit",
+    "party": "bjp",
+    "age":"27",
+    "votes":[
+        {
+            "user":"dhfskjfue737382bbdsjh",
+            "voteAt":"237487-747074-2772"
+        },
+        {
+            "user":"dhfskjfue737382bbdsjh",
+            "voteAt":"237487-747074-2772"
+        }
+    ],
+    "voteCount":2
+}
